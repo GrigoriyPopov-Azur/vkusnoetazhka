@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "palette": {
+    "paper": "#FFF3DC",
+    "paperShadow": "#F6E3C0",
+    "edge": "#E2C59A",
+    "tomato": "#E0483E",
+    "tomatoDark": "#B23128",
+    "mustard": "#F2B43C",
+    "mustardDark": "#C98A1E",
+    "sage": "#7FA866",
+    "sageDark": "#5C8247",
+    "lilac": "#9B7FD0",
+    "lilacDark": "#7558AE",
+    "navy": "#22305A"
+  },
+  "sprites": {
+    "sparkle_4pt": {
+      "file": "sparkle_4pt.png",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "sparkle_dot": {
+      "file": "sparkle_dot.png",
+      "size": [
+        64,
+        64
+      ]
+    },
+    "glow_soft": {
+      "file": "glow_soft.png",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "ray_burst": {
+      "file": "ray_burst.png",
+      "size": [
+        512,
+        512
+      ]
+    },
+    "ring_wave": {
+      "file": "ring_wave.png",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "puff_paper": {
+      "file": "puff_paper.png",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "puff_b": {
+      "file": "puff_b.png",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "confetti_1": {
+      "file": "confetti_1.png",
+      "size": [
+        64,
+        64
+      ]
+    },
+    "confetti_2": {
+      "file": "confetti_2.png",
+      "size": [
+        64,
+        64
+      ]
+    },
+    "confetti_3": {
+      "file": "confetti_3.png",
+      "size": [
+        64,
+        64
+      ]
+    },
+    "confetti_4": {
+      "file": "confetti_4.png",
+      "size": [
+        64,
+        64
+      ]
+    },
+    "confetti_5": {
+      "file": "confetti_5.png",
+      "size": [
+        64,
+        64
+      ]
+    },
+    "confetti_6": {
+      "file": "confetti_6.png",
+      "size": [
+        64,
+        64
+      ]
+    },
+    "crumb_1": {
+      "file": "crumb_1.png",
+      "size": [
+        32,
+        32
+      ]
+    },
+    "crumb_2": {
+      "file": "crumb_2.png",
+      "size": [
+        40,
+        40
+      ]
+    },
+    "crumb_3": {
+      "file": "crumb_3.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    "heart_pop": {
+      "file": "heart_pop.png",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "star_shine": {
+      "file": "star_shine.png",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "coin_shine": {
+      "file": "coin_shine.png",
+      "size": [
+        128,
+        128
+      ]
+    }
+  },
+  "strips": {
+    "sparkle": {
+      "file": "sparkle_strip.png",
+      "size": [
+        384,
+        64
+      ],
+      "frames": 6,
+      "frameSize": [
+        64,
+        64
+      ],
+      "framePattern": "sparkle/frame_%02d.png"
+    },
+    "puff": {
+      "file": "puff_strip.png",
+      "size": [
+        768,
+        128
+      ],
+      "frames": 6,
+      "frameSize": [
+        128,
+        128
+      ],
+      "framePattern": "puff/frame_%02d.png"
+    },
+    "star_burst": {
+      "file": "star_burst_strip.png",
+      "size": [
+        1024,
+        128
+      ],
+      "frames": 8,
+      "frameSize": [
+        128,
+        128
+      ],
+      "framePattern": "star_burst/frame_%02d.png"
+    },
+    "confetti_pop": {
+      "file": "confetti_pop_strip.png",
+      "size": [
+        2048,
+        256
+      ],
+      "frames": 8,
+      "frameSize": [
+        256,
+        256
+      ],
+      "framePattern": "confetti_pop/frame_%02d.png"
+    }
+  }
+}

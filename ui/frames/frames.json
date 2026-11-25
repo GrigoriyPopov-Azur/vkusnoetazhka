@@ -1,0 +1,382 @@
+{
+ "btn_red.png": {
+  "w": 600,
+  "h": 173,
+  "slice": {
+   "top": 75,
+   "right": 105,
+   "bottom": 86,
+   "left": 105
+  }
+ },
+ "btn_cream.png": {
+  "w": 600,
+  "h": 187,
+  "slice": {
+   "top": 80,
+   "right": 110,
+   "bottom": 95,
+   "left": 110
+  }
+ },
+ "btn_mustard.png": {
+  "w": 600,
+  "h": 172,
+  "slice": {
+   "top": 74,
+   "right": 105,
+   "bottom": 86,
+   "left": 105
+  }
+ },
+ "btn_sage.png": {
+  "w": 600,
+  "h": 175,
+  "slice": {
+   "top": 75,
+   "right": 106,
+   "bottom": 88,
+   "left": 106
+  }
+ },
+ "btn_lilac.png": {
+  "w": 600,
+  "h": 175,
+  "slice": {
+   "top": 75,
+   "right": 106,
+   "bottom": 88,
+   "left": 106
+  }
+ },
+ "btn_navy.png": {
+  "w": 600,
+  "h": 175,
+  "slice": {
+   "top": 75,
+   "right": 106,
+   "bottom": 88,
+   "left": 106
+  }
+ },
+ "chip.png": {
+  "w": 360,
+  "h": 169,
+  "slice": {
+   "top": 70,
+   "right": 95,
+   "bottom": 86,
+   "left": 95
+  }
+ },
+ "tile_cream.png": {
+  "w": 234,
+  "h": 240,
+  "slice": {
+   "top": 64,
+   "right": 68,
+   "bottom": 76,
+   "left": 68
+  }
+ },
+ "tile_sage.png": {
+  "w": 227,
+  "h": 240,
+  "slice": {
+   "top": 64,
+   "right": 66,
+   "bottom": 76,
+   "left": 66
+  }
+ },
+ "tile_blue.png": {
+  "w": 227,
+  "h": 240,
+  "slice": {
+   "top": 64,
+   "right": 66,
+   "bottom": 76,
+   "left": 66
+  }
+ },
+ "tile_mustard.png": {
+  "w": 229,
+  "h": 240,
+  "slice": {
+   "top": 64,
+   "right": 67,
+   "bottom": 76,
+   "left": 67
+  }
+ },
+ "tile_lilac.png": {
+  "w": 236,
+  "h": 240,
+  "slice": {
+   "top": 64,
+   "right": 68,
+   "bottom": 76,
+   "left": 68
+  }
+ },
+ "tile_red.png": {
+  "w": 236,
+  "h": 240,
+  "slice": {
+   "top": 64,
+   "right": 68,
+   "bottom": 76,
+   "left": 68
+  }
+ },
+ "card.png": {
+  "w": 894,
+  "h": 1500,
+  "slice": {
+   "top": 100,
+   "right": 100,
+   "bottom": 135,
+   "left": 100
+  }
+ },
+ "card_rings.png": {
+  "w": 650,
+  "h": 151,
+  "slice": {
+   "top": 0,
+   "right": 0,
+   "bottom": 0,
+   "left": 0
+  }
+ },
+ "tabs.png": {
+  "w": 267,
+  "h": 700,
+  "slice": {
+   "top": 0,
+   "right": 0,
+   "bottom": 0,
+   "left": 0
+  }
+ },
+ "corner_curl.png": {
+  "w": 320,
+  "h": 296,
+  "slice": {
+   "top": 0,
+   "right": 0,
+   "bottom": 0,
+   "left": 0
+  }
+ },
+ "coin_ribbon.png": {
+  "w": 650,
+  "h": 133,
+  "slice": {
+   "top": 42,
+   "right": 170,
+   "bottom": 48,
+   "left": 170
+  }
+ },
+ "tabbar.png": {
+  "w": 1200,
+  "h": 351,
+  "slice": {
+   "top": 120,
+   "right": 160,
+   "bottom": 150,
+   "left": 160
+  }
+ },
+ "tabbar_active.png": {
+  "w": 212,
+  "h": 300,
+  "slice": {
+   "top": 65,
+   "right": 55,
+   "bottom": 75,
+   "left": 55
+  }
+ },
+ "node_open.png": {
+  "w": 360,
+  "h": 290,
+  "slice": {
+   "top": 0,
+   "right": 0,
+   "bottom": 0,
+   "left": 0
+  }
+ },
+ "node_current.png": {
+  "w": 360,
+  "h": 290,
+  "slice": {
+   "top": 0,
+   "right": 0,
+   "bottom": 0,
+   "left": 0
+  }
+ },
+ "node_done.png": {
+  "w": 360,
+  "h": 290,
+  "slice": {
+   "top": 0,
+   "right": 0,
+   "bottom": 0,
+   "left": 0
+  }
+ },
+ "node_locked.png": {
+  "w": 360,
+  "h": 290,
+  "slice": {
+   "top": 0,
+   "right": 0,
+   "bottom": 0,
+   "left": 0
+  }
+ },
+ "badge_red.png": {
+  "w": 174,
+  "h": 180,
+  "slice": {
+   "top": 0,
+   "right": 0,
+   "bottom": 0,
+   "left": 0
+  }
+ },
+ "progress_track.png": {
+  "w": 900,
+  "h": 104,
+  "slice": {
+   "top": 42,
+   "right": 70,
+   "bottom": 48,
+   "left": 70
+  }
+ },
+ "progress_fill_mustard.png": {
+  "w": 840,
+  "h": 54,
+  "slice": {
+   "top": 20,
+   "right": 32,
+   "bottom": 24,
+   "left": 32
+  }
+ },
+ "toast.png": {
+  "w": 720,
+  "h": 197,
+  "slice": {
+   "top": 80,
+   "right": 110,
+   "bottom": 99,
+   "left": 110
+  }
+ },
+ "ribbon_red.png": {
+  "w": 456,
+  "h": 132,
+  "slice": {
+   "top": 44,
+   "right": 112,
+   "bottom": 44,
+   "left": 112
+  }
+ },
+ "tab_red.png": {
+  "w": 112,
+  "h": 88,
+  "slice": {
+   "top": 0,
+   "right": 0,
+   "bottom": 0,
+   "left": 0
+  }
+ },
+ "tab_mustard.png": {
+  "w": 112,
+  "h": 88,
+  "slice": {
+   "top": 0,
+   "right": 0,
+   "bottom": 0,
+   "left": 0
+  }
+ },
+ "tab_sage.png": {
+  "w": 112,
+  "h": 88,
+  "slice": {
+   "top": 0,
+   "right": 0,
+   "bottom": 0,
+   "left": 0
+  }
+ },
+ "logo_plaque.png": {
+  "w": 514,
+  "h": 298,
+  "slice": {
+   "top": 104,
+   "right": 130,
+   "bottom": 74,
+   "left": 130
+  }
+ },
+ "logo_en.png": {
+  "w": 1024,
+  "h": 512,
+  "slice": {
+   "top": 104,
+   "right": 130,
+   "bottom": 74,
+   "left": 130
+  }
+ },
+ "logo_ru.png": {
+  "w": 1024,
+  "h": 496,
+  "slice": {
+   "top": 104,
+   "right": 130,
+   "bottom": 74,
+   "left": 130
+  }
+ },
+ "card_board.png": {
+  "w": 894,
+  "h": 1500,
+  "slice": {
+   "top": 100,
+   "right": 100,
+   "bottom": 135,
+   "left": 100
+  }
+ },
+ "tabs_rest.png": {
+  "w": 267,
+  "h": 700,
+  "slice": {
+   "top": 0,
+   "right": 0,
+   "bottom": 0,
+   "left": 0
+  }
+ },
+ "tab_close.png": {
+  "w": 266,
+  "h": 266,
+  "slice": {
+   "top": 0,
+   "right": 0,
+   "bottom": 0,
+   "left": 0
+  }
+ }
+}
